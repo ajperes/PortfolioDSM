@@ -18,7 +18,7 @@
 
 
 
-<hr alight="center" width="80%">
+<p alight="center"><hr width="80%"></p>
 <h3>SmartFarm</h3>
 <h4>1º Semestre - 1/2024 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://sjc.fatec.sp.gov.br/">Faculdade de Tecnologia de
@@ -65,7 +65,7 @@
 
 
 
-<hr alight="center" width="80%">
+<p alight="center"><hr width="80%"></p>
 <h3>CloudStock</h3>
 <h4>2º Semestre - 2/2024 - <a href="https://github.com/SkyFlyTeam/cloudStock">Repositório Github</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://sjc.fatec.sp.gov.br/">Faculdade de Tecnologia de
@@ -113,7 +113,7 @@
 
 
 
-<hr alight="center" width="80%">
+<p alight="center"><hr width="80%"></p>
 <h3>BeeOnTime</h3>
 <h4>3º Semestre - 1/2025 - <a href="https://github.com/SkyFlyTeam/BeeOnTime-documentation">Repositório
         Github</a></h4>
