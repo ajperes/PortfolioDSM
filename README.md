@@ -82,6 +82,7 @@
   </div>
 
 
+  </div>
 
     <hr alight="center" width="80%">
     <h3>BeeOnTime</h3>
@@ -119,4 +120,3 @@
     <p align="justify"><b>Resiliência:</b> descrição #2</p>
     <p align="justify"><b>Comunicação Assertiva</b> descrição #3</p>
     <br>
-  </div>
