@@ -30,6 +30,7 @@
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
     ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
     <br>
     <h3>Contribuições Pessoais</h3>
     <p align="justify">Como membro do Developer Team, fiz manutenção no Back-End após implementação inicial deste, assim como testei e corrigi bugs de apresentação em componentes do Front-End, e removi comportamento oriundo de dados mocados remanescentes na tela inicial.</p>
@@ -43,6 +44,7 @@
     <p align="justify"><b>Inteligência Emocional:</b> foi necessária para escutar e procurar entender a situação em que certos membros se encontravam.</p>
     <p align="justify"><b>Comunicação Assertiva:</b> também desenvolvida para impedir novos conflitos de emergirem, mantendo uma linha clara do que estava sendo trabalhado.</p>
     <br>
+
 
 
 
@@ -80,7 +82,8 @@
     <br>
 
 
-</div>
+
+
 
     <hr alight="center" width="80%">
     <h3>BeeOnTime</h3>
