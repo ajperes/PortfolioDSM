@@ -17,8 +17,8 @@
 <h2>Projetos</h2>
 
 
-
-<p alight="center"><hr width="80%"></p>
+<div>
+<hr>
 <h3>SmartFarm</h3>
 <h4>1º Semestre - 1/2024 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://sjc.fatec.sp.gov.br/">Faculdade de Tecnologia de
@@ -61,11 +61,11 @@
 <p align="justify"><b>Comunicação Assertiva:</b> também desenvolvida para impedir novos conflitos de emergirem, mantendo
     uma linha clara do que estava sendo trabalhado.</p>
 <br>
+</div>
 
 
 
-
-<p alight="center"><hr width="80%"></p>
+<hr>
 <h3>CloudStock</h3>
 <h4>2º Semestre - 2/2024 - <a href="https://github.com/SkyFlyTeam/cloudStock">Repositório Github</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://sjc.fatec.sp.gov.br/">Faculdade de Tecnologia de
@@ -87,6 +87,7 @@
 ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma&logoColor=800000)
 ![Discord](https://img.shields.io/badge/Discord-20232A?style=for-the-badge&logo=discord&logoColor=61DAFB)
 ![Jira](https://img.shields.io/badge/Jira-20232A?style=for-the-badge&logo=Jira&logoColor=4169E1)
+
 <br>
 <h3>Contribuições Pessoais </h3>
 <p align="justify">Como membro do Developer Team, atuei na manutenção de componentes Front-End, corrigindo bugs,
@@ -113,7 +114,7 @@
 
 
 
-<p alight="center"><hr width="80%"></p>
+<hr>
 <h3>BeeOnTime</h3>
 <h4>3º Semestre - 1/2025 - <a href="https://github.com/SkyFlyTeam/BeeOnTime-documentation">Repositório
         Github</a></h4>
@@ -144,12 +145,10 @@
 <p align="justify">Como membro do Developer Team, </p>
 <br>
 <h3>Lições Aprendidas </h3>
-<p align="justify">A maior lição de como conhecimento agrega com o tempo, vendo que aquilo </p>
+<p align="justify">A maior lição de como conhecimento agrega com o tempo, vendo como defasagem de semestres anteriores afetou diretamente o projeto atual. Ainda mais, o projeto foi de maior escopo e, proporcionalmente, de maior demanda de trabalho, o que resultou numa maior exposição de pontos fracos da equipe em geral, e abriu a oportunidade de reconhecer e trabalhar em tais fraquezas.</p>
 <h3>Hard Skills Desenvolvidas</h3>
-<p></p>
+<p>TypeScript, NextJS, React, Node.js, Javascript.</p>
 <br>
 <h3>Soft Skills Desenvoldidas</h3>
-<p align="justify"><b>Organização e Planejamento:</b> foi necessária para melhor executar as tarefas atribuídas</p>
-<p align="justify"><b>Resiliência:</b> descrição #2</p>
-<p align="justify"><b>Comunicação Assertiva</b> descrição #3</p>
+<p align="justify"><b>Organização e Planejamento:</b> foi necessária para melhor executar as tarefas atribuídas devido o escopo. Apesar de resultados não serem esperados, o desenvolvimento dessa habilidade permitiu reconhecer outros aspectos que necessitam de maior trabalho para desenvolver para o próximo semestre.</p>
 <br>
