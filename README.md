@@ -52,6 +52,7 @@
     outros além de uma dificuldade na distribuição efetiva de funções. Além destes, foi aprendido como framework Flask
     funciona além do básico, como também o poder de bibliotecas (como pandas) no Python que ajudou drasticamente a
     reduzir o esforço no projeto.</p>
+<br>
 <h3>Hard Skills Desenvolvidas</h3>
 <p>Python, Flask, HTML, CSS, Docker.</p>
 <br>
@@ -99,6 +100,7 @@
     profissional. Um evento no início do semestre provou ter uma influência duradoura que influênciou minha capacidade
     para performar. A maior lição aprendida não foi em questão de Hard Skill, mas em Soft Skill: ser aberto quanto
     minhas condições para não pesar no restante da equipe.</p>
+<br>
 <h3>Hard Skills Desenvolvidas</h3>
 <p>TypeScript, React, Javascript, Node.js, HTML, CSS.</p>
 <br>
@@ -146,6 +148,7 @@
 <br>
 <h3>Lições Aprendidas </h3>
 <p align="justify">A maior lição de como conhecimento agrega com o tempo, vendo como defasagem de semestres anteriores afetou diretamente o projeto atual. Ainda mais, o projeto foi de maior escopo e, proporcionalmente, de maior demanda de trabalho, o que resultou numa maior exposição de pontos fracos da equipe em geral, e abriu a oportunidade de reconhecer e trabalhar em tais fraquezas.</p>
+<br>
 <h3>Hard Skills Desenvolvidas</h3>
 <p>TypeScript, NextJS, React, Node.js, Javascript.</p>
 <br>
