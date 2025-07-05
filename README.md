@@ -82,7 +82,7 @@
   </div>
 
 
-  <div class="semestre3">
+
     <hr alight="center" width="80%">
     <h3>BeeOnTime</h3>
     <h4>3º Semestre - 1/2025 - <a href="https://github.com/SkyFlyTeam/BeeOnTime-documentation">Repositório
@@ -104,6 +104,7 @@
     ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma&logoColor=800000)
     ![Discord](https://img.shields.io/badge/Discord-20232A?style=for-the-badge&logo=discord&logoColor=61DAFB)
     ![Jira](https://img.shields.io/badge/Jira-20232A?style=for-the-badge&logo=Jira&logoColor=4169E1)
+
     <br>
     <h3>Contribuições Pessoais </h3>
     <p align="justify">Como membro do Developer Team, </p>
@@ -119,4 +120,3 @@
     <p align="justify"><b>Comunicação Assertiva</b> descrição #3</p>
     <br>
   </div>
-</div>
