@@ -8,11 +8,11 @@
 </div>
 <hr>
 
-<div class="projetos">
+
   <h2>Projetos</h2>
 
 
-  <div class="semestre1">
+
     <hr alight="center" width="80%">
     <h3>SmartFarm</h3>
     <h4>1º Semestre - 1/2024 </h4>
@@ -43,10 +43,9 @@
     <p align="justify"><b>Inteligência Emocional:</b> foi necessária para escutar e procurar entender a situação em que certos membros se encontravam.</p>
     <p align="justify"><b>Comunicação Assertiva:</b> também desenvolvida para impedir novos conflitos de emergirem, mantendo uma linha clara do que estava sendo trabalhado.</p>
     <br>
-  </div>
 
 
-  <div class="semestre2">
+
     <hr alight="center" width="80%">
     <h3>CloudStock</h3>
     <h4>2º Semestre - 2/2024 - <a href="https://github.com/SkyFlyTeam/cloudStock">Repositório Github</a></h4>
@@ -79,10 +78,9 @@
     <p align="justify"><b>Resiliência e paciência:</b> por eventos de perda pessoais no inicio do semestre, desenvolvi por necessidade a capacidade de persistir para manter e entregar aquilo que foi acordado.</p>
     <p align="justify"><b>Comunicação Assertiva:</b> assim como no primeiro semestre, a comunicação foi essencial para manter o grupo informado de minha condição. Principalmente após ter uma queda na atuação e, até mesmo, na comunicação em si.</p>
     <br>
-  </div>
 
 
-  </div>
+</div>
 
     <hr alight="center" width="80%">
     <h3>BeeOnTime</h3>
